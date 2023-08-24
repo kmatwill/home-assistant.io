@@ -26,4 +26,4 @@ There is currently support for the following platforms within Home Assistant:
 
 Please note, when setting the integration, the UI will ask for "Host". This is
 the hostname or IP address of the machine you run MuteSync on (which is most
-likely your desktop computer).
+likely your desktop computer). Requires TCP Port 8249 be open Inbound or allow app through firewall.
